@@ -1,2 +1,2 @@
-# lotap-project
+# lotap-web-project
 kue
